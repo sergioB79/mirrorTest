@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mirrorTest/static/css/main.0905ccdf.css",
+    "main.js": "/mirrorTest/static/js/main.ca8564cd.js",
+    "static/js/453.6cabf02e.chunk.js": "/mirrorTest/static/js/453.6cabf02e.chunk.js",
+    "index.html": "/mirrorTest/index.html",
+    "main.0905ccdf.css.map": "/mirrorTest/static/css/main.0905ccdf.css.map",
+    "main.ca8564cd.js.map": "/mirrorTest/static/js/main.ca8564cd.js.map",
+    "453.6cabf02e.chunk.js.map": "/mirrorTest/static/js/453.6cabf02e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0905ccdf.css",
+    "static/js/main.ca8564cd.js"
+  ]
+}
